@@ -1,0 +1,26 @@
+PROJECT TITLE: Student Management System (MySQL)
+
+DESCRIPTION:
+This is a beginner-level project that uses MySQL to manage student records. It includes tables for students, courses, marks, and attendance. The goal is to practice table creation, relationships, and SQL queries.
+
+TECHNOLOGIES USED:
+- MySQL
+- SQL queries (DDL, DML, JOIN)
+
+TABLES:
+1. Students – stores basic student info
+2. Courses – list of subjects
+3. Marks – student marks for each course
+4. Attendance – presence/absence record for each student per course
+
+KEY FEATURES:
+- Store and manage student data
+- Fetch marks and attendance reports using JOIN queries
+
+SAMPLE OUTPUT:
+- Query to get student names with marks in each course
+- Query to get attendance status by date
+
+TOOLS:
+- SQLfiddle or db-fiddle (online)
+- GitHub for sharing
